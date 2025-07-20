@@ -18,8 +18,8 @@
 #'
 #' @importFrom stats integrate
 #'
-#' @references Yildirim, V. and Kantar, Y.M. (2020). Robust estimation of spatial error model. in Journal of Statistical Computation and Simulation \url{https://doi.org/10.1080/00949655.2020.1740223}
-#' @references Yildirim, V., Mert Kantar, Y. (2019). Spatial Statistical Analysis of Participants in The Individual Pension System of Turkey. Eskisehir Teknik Universitesi Bilim Ve Teknoloji Dergisi B - Teorik Bilimler, 7(2), 184-194 \url{https://doi.org/10.20290/estubtdb.518706}
+#' @references Yildirim, V. and Kantar, Y.M. (2020). Robust estimation of spatial error model. in Journal of Statistical Computation and Simulation \doi{10.1080/00949655.2020.1740223}
+#' @references Yildirim, V., Mert Kantar, Y. (2019). Spatial Statistical Analysis of Participants in The Individual Pension System of Turkey. Eskisehir Teknik Universitesi Bilim Ve Teknoloji Dergisi B - Teorik Bilimler, 7(2), 184-194 \doi{10.20290/estubtdb.518706}
 #' @examples
 #' #spdep library can be used to create a weight matrix from listw
 #' #require(spdep)
